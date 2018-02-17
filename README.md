@@ -1,6 +1,6 @@
 <b><h1>Monitor do Funcionalismo de Campinas</h1></b>
 
-A partir da folha de pagamento disponibilizada mensalmente pela Prefeitura de Campinas, o programa, escrito em Python, possui duas funções nesta primeira versão. Monitorar o número de funcionários por secretaria ou cargo.
+A partir da folha de pagamento disponibilizada mensalmente pela Prefeitura de Campinas, o programa, escrito em Python, possui três funções nesta primeira versão. Monitorar o número de funcionários por secretaria ou cargo, além da folha de pagamento.
 
 Inicialmente, estão disponíveis os dados de janeiro a dezembro de 2017. Porém, em próximas atualizações serão fornecidos períodos mais estendidos de dados para análise. 
 
