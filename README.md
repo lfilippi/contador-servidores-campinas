@@ -14,7 +14,7 @@ Contabiliza mês a mês o número de funcionários contratados por secretaria. B
 
 Contabiliza mês a mês o número de servidores contratados por cargo. Basta digitar o cargo a ser buscado todo em caixa alta ("GUARDA MUNICIPAL", "ASSISTENTE SOCIAL" etc) e o programa retorna os dados. 
 
-<b><h3>2. Monitor do número de servidores por cargo</h3></b>
+<b><h3>3. Monitor do número de servidores por cargo</h3></b>
 
 Contabiliza os valores pagos pela prefeitura aos funcionários. É possível fazer os cálculos para os tipos específicos de pagamentos. Para isso, a lista de todas as opções está abaixo. O número ao lado representa a posição da coluna na planilha, ou seja, para somar o Total Bruto, por exemplo, é preciso alterar o código para registro[16].
 
